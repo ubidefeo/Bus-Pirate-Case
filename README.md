@@ -13,7 +13,7 @@ I have used the following process to create a 3d model of the v4.0 PCB:
 * designed the case around the model using projected shapes and boundaries
 * the two parts are carefully designed with no over-hangs
 
-![Case v2 - top off view 2.png](resources/4DF2A6C2F437542159F3E566436D1657.png)
+![Case - top off](resources/4DF2A6C2F437542159F3E566436D1657.png)
 
 __note__: these models have very tight tolerances in some areas and no tolerance at all in others.
 This is possible because my Ultimaker is calibrated extremely well and I use an Olsson Block 0.4mm diameter.
@@ -22,7 +22,9 @@ An acetate sheet is glued to the build-plate glass to allow for easy removal of 
 I only use [Rigid.ink PLA](http://rigid.ink) because of its quality and strength.
 Models are printed one at a time.
 
-![Screen Shot 2017-05-25 at 16.34.25.png](resources/B5ECDA007207B4DDCEC799737B442869.png)
+![Assembly Fusion 360]()
+
+![Section](resources/B5ECDA007207B4DDCEC799737B442869.png)
 
 The model is made in 2 main parts (bottom and top) plus the buttons.
 I have created a Simplify3D factory file with settings for my Ultimaker 2 printer.
