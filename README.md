@@ -29,7 +29,11 @@ I have created a Simplify3D factory file with settings for my Ultimaker 2 printe
 
 ### downloads
 #### STL
+[Bottom](models-STL/Bottom.STL)
+[Top](models-STL/Top.STL)
+[Buttons](models-STL/Buttons.STL)
 
 #### Fusion 360 (.F3D)
+[Assembly](models-Fusion360.f3d)
 
 #### Simplify3D
