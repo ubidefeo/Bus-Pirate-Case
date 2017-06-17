@@ -22,7 +22,11 @@ An acetate sheet is glued to the build-plate glass to allow for easy removal of 
 I only use [Rigid.ink PLA](http://rigid.ink) because of its quality and strength.
 Models are printed one at a time.
 
-![Assembly Fusion 360](resources/Case_exploded.png)
+![Exploded model](resources/Case_exploded_model.png)
+
+![Exploded shaded](resources/Case_exploded.png)
+
+
 
 ![Section](resources/B5ECDA007207B4DDCEC799737B442869.png)
 
