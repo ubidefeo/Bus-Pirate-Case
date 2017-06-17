@@ -36,6 +36,7 @@ I have created a Simplify3D factory file with settings for my Ultimaker 2 printe
 * [Buttons](models-STL/Buttons.STL)
 
 #### Fusion 360 (.F3D)
-[Assembly](models-Fusion360/BusPirate_v4.0_Case.f3d)
+* [Assembly](models-Fusion360/BusPirate_v4.0_Case.f3d)
 
 #### Simplify3D
+* [Factory File (all parts)](Simplify3D/BusPirate_ALL.factory)
