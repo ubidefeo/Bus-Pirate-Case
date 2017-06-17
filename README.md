@@ -22,7 +22,7 @@ An acetate sheet is glued to the build-plate glass to allow for easy removal of 
 I only use [Rigid.ink PLA](http://rigid.ink) because of its quality and strength.
 Models are printed one at a time.
 
-![Assembly Fusion 360]()
+![Assembly Fusion 360](resources/Case_exploded.png)
 
 ![Section](resources/B5ECDA007207B4DDCEC799737B442869.png)
 
@@ -36,6 +36,6 @@ I have created a Simplify3D factory file with settings for my Ultimaker 2 printe
 [Buttons](models-STL/Buttons.STL)
 
 #### Fusion 360 (.F3D)
-[Assembly](models-Fusion360.f3d)
+[Assembly](models-Fusion360/BusPirate_v4.0_Case.f3d)
 
 #### Simplify3D
