@@ -1,6 +1,10 @@
 # Bus Pirate Enclosure for BP v.4.0
-![Case v2.png](resources/27E8554C5F3B513E9D2A13C29EED7F7F.png)
-Designed in Fusion 360 based on Eagle Board files downloaded from [Dangerous Prototype's GitHub repo](https://github.com/DangerousPrototypes/Bus_Pirate)
+![Case v2](resources/27E8554C5F3B513E9D2A13C29EED7F7F.png)
+
+__NOTE:__ *I have modified the buttons to be round as the current shape had too small details to be printed correctly.
+I'll upload new STL and models in the following days from my workstation (my laptop suffers).*
+
+Designed in Fusion 360, starting with Eagle Board files downloaded from [Dangerous Prototype's GitHub repo](https://github.com/DangerousPrototypes/Bus_Pirate)
 
 I have used the following process to create a 3d model of the v4.0 PCB:
 
@@ -22,9 +26,9 @@ An acetate sheet is glued to the build-plate glass to allow for easy removal of 
 I only use [Rigid.ink PLA](http://rigid.ink) because of its quality and strength.
 Models are printed one at a time.
 
-![Exploded model](resources/Case_exploded_model.png)
+![Explode](resources/Case_exploded_model.png)
 
-![Exploded shaded](resources/Case_exploded.png)
+![Explode](resources/Case_exploded.png)
 
 
 
